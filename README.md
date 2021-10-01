@@ -6,4 +6,3 @@ Download the code and compile and run from the command line, or load the code in
 
 Other links for the book are available on the book page at <a href="http://wickedlysmart.com/head-first-design-patterns/">wickedlysmart.com</a>.
 
-# head_first_design_pattern_full_code
